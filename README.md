@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+Hi there 
+Life is short to ignore git you should try it sometimes
